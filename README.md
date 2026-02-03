@@ -14,7 +14,6 @@ You Can check live demo at **[Visit Here](https://convocube.online/)**
 - **Group Chat**: Users can create, join, and manage groups for group chats.
 - **Admin Dashboard**: Admins can log in to manage users, chats, and messages.
 - **Notifications**: The app provides notifications for new messages and group updates.
-- **Mobile Version**: A mobile version of the app is also available. See the mobile version repository [here](https://github.com/ishaan-k-19/chatAppMobile).
 
 ## Tech Stack
 
